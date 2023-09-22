@@ -1,0 +1,10 @@
+C:\Users\le-fr\Desktop\C#\Repetições\bin\Debug\Repetições.exe.config
+C:\Users\le-fr\Desktop\C#\Repetições\bin\Debug\Repetições.exe
+C:\Users\le-fr\Desktop\C#\Repetições\bin\Debug\Repetições.pdb
+C:\Users\le-fr\Desktop\C#\Repetições\obj\Debug\Repetições.csproj.AssemblyReference.cache
+C:\Users\le-fr\Desktop\C#\Repetições\obj\Debug\Repetições.Form1.resources
+C:\Users\le-fr\Desktop\C#\Repetições\obj\Debug\Repetições.Properties.Resources.resources
+C:\Users\le-fr\Desktop\C#\Repetições\obj\Debug\Repetições.csproj.GenerateResource.cache
+C:\Users\le-fr\Desktop\C#\Repetições\obj\Debug\Repetições.csproj.CoreCompileInputs.cache
+C:\Users\le-fr\Desktop\C#\Repetições\obj\Debug\Repetições.exe
+C:\Users\le-fr\Desktop\C#\Repetições\obj\Debug\Repetições.pdb

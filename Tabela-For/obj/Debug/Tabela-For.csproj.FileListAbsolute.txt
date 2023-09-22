@@ -1,0 +1,7 @@
+C:\Users\le-fr\Desktop\C#\Tabela-For\obj\Debug\Tabela-For.csproj.AssemblyReference.cache
+C:\Users\le-fr\Desktop\C#\Tabela-For\obj\Debug\Tabela-For.csproj.CoreCompileInputs.cache
+C:\Users\le-fr\Desktop\C#\Tabela-For\bin\Debug\Tabela-For.exe.config
+C:\Users\le-fr\Desktop\C#\Tabela-For\bin\Debug\Tabela-For.exe
+C:\Users\le-fr\Desktop\C#\Tabela-For\bin\Debug\Tabela-For.pdb
+C:\Users\le-fr\Desktop\C#\Tabela-For\obj\Debug\Tabela-For.exe
+C:\Users\le-fr\Desktop\C#\Tabela-For\obj\Debug\Tabela-For.pdb
