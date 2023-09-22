@@ -1,0 +1,10 @@
+C:\Users\le-fr\Desktop\C#\ClassesObjetosForm\bin\Debug\ClassesObjetosForm.exe.config
+C:\Users\le-fr\Desktop\C#\ClassesObjetosForm\bin\Debug\ClassesObjetosForm.exe
+C:\Users\le-fr\Desktop\C#\ClassesObjetosForm\bin\Debug\ClassesObjetosForm.pdb
+C:\Users\le-fr\Desktop\C#\ClassesObjetosForm\obj\Debug\ClassesObjetosForm.csproj.AssemblyReference.cache
+C:\Users\le-fr\Desktop\C#\ClassesObjetosForm\obj\Debug\ClassesObjetosForm.Form1.resources
+C:\Users\le-fr\Desktop\C#\ClassesObjetosForm\obj\Debug\ClassesObjetosForm.Properties.Resources.resources
+C:\Users\le-fr\Desktop\C#\ClassesObjetosForm\obj\Debug\ClassesObjetosForm.csproj.GenerateResource.cache
+C:\Users\le-fr\Desktop\C#\ClassesObjetosForm\obj\Debug\ClassesObjetosForm.csproj.CoreCompileInputs.cache
+C:\Users\le-fr\Desktop\C#\ClassesObjetosForm\obj\Debug\ClassesObjetosForm.exe
+C:\Users\le-fr\Desktop\C#\ClassesObjetosForm\obj\Debug\ClassesObjetosForm.pdb
