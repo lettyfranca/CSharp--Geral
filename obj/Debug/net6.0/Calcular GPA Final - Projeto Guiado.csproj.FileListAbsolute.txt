@@ -1,0 +1,14 @@
+C:\Users\le-fr\Desktop\C#\Calcular GPA Final - Projeto Guiado\bin\Debug\net6.0\Calcular GPA Final - Projeto Guiado.exe
+C:\Users\le-fr\Desktop\C#\Calcular GPA Final - Projeto Guiado\bin\Debug\net6.0\Calcular GPA Final - Projeto Guiado.deps.json
+C:\Users\le-fr\Desktop\C#\Calcular GPA Final - Projeto Guiado\bin\Debug\net6.0\Calcular GPA Final - Projeto Guiado.runtimeconfig.json
+C:\Users\le-fr\Desktop\C#\Calcular GPA Final - Projeto Guiado\bin\Debug\net6.0\Calcular GPA Final - Projeto Guiado.dll
+C:\Users\le-fr\Desktop\C#\Calcular GPA Final - Projeto Guiado\bin\Debug\net6.0\Calcular GPA Final - Projeto Guiado.pdb
+C:\Users\le-fr\Desktop\C#\Calcular GPA Final - Projeto Guiado\obj\Debug\net6.0\Calcular GPA Final - Projeto Guiado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\le-fr\Desktop\C#\Calcular GPA Final - Projeto Guiado\obj\Debug\net6.0\Calcular GPA Final - Projeto Guiado.AssemblyInfoInputs.cache
+C:\Users\le-fr\Desktop\C#\Calcular GPA Final - Projeto Guiado\obj\Debug\net6.0\Calcular GPA Final - Projeto Guiado.AssemblyInfo.cs
+C:\Users\le-fr\Desktop\C#\Calcular GPA Final - Projeto Guiado\obj\Debug\net6.0\Calcular GPA Final - Projeto Guiado.csproj.CoreCompileInputs.cache
+C:\Users\le-fr\Desktop\C#\Calcular GPA Final - Projeto Guiado\obj\Debug\net6.0\Calcular GPA Final - Projeto Guiado.dll
+C:\Users\le-fr\Desktop\C#\Calcular GPA Final - Projeto Guiado\obj\Debug\net6.0\refint\Calcular GPA Final - Projeto Guiado.dll
+C:\Users\le-fr\Desktop\C#\Calcular GPA Final - Projeto Guiado\obj\Debug\net6.0\Calcular GPA Final - Projeto Guiado.pdb
+C:\Users\le-fr\Desktop\C#\Calcular GPA Final - Projeto Guiado\obj\Debug\net6.0\Calcular GPA Final - Projeto Guiado.genruntimeconfig.cache
+C:\Users\le-fr\Desktop\C#\Calcular GPA Final - Projeto Guiado\obj\Debug\net6.0\ref\Calcular GPA Final - Projeto Guiado.dll
